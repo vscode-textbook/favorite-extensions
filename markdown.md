@@ -58,4 +58,25 @@ Markdownファイルをpdf/html/png/jpegファイルに変換する拡張。日�
 
 ![](https://raw.githubusercontent.com/amoosbr/vscode-markdown-imsize/master/docs/playing-cat-example1.png)
 
+---
+## [vscode-textlint(taichi)](https://marketplace.visualstudio.com/items?itemName=taichi.vscode-textlint)
 
+textlintは、JavaScriptで記述されたオープンソースのテキストリンティングユーティリティです。このtextlintを使って文章をチェックする拡張機能です。
+
+![](https://github.com/taichi/vscode-textlint/raw/master/imgs/hover.png)
+
+---
+## [Code Spell Checker(Street Side Software)](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
+プログラミングに便利なシンプルなソースコードスペルチェッカーを利用するための拡張機能。
+
+![](https://raw.githubusercontent.com/streetsidesoftware/vscode-spell-checker/master/packages/client/images/example.gif)
+
+---
+## [Spell Right(Bartosz Antosik)](https://marketplace.visualstudio.com/items?itemName=ban.spellright)
+
+マークダウンやLaTexなどにも対応したスペルチェッカー。多言語に対応しており、スペルのサジェスチョンなども行えます。
+
+![](https://github.com/bartosz-antosik/vscode-spellright/raw/master/media/screenshot-documents.png)
+
+![](https://github.com/bartosz-antosik/vscode-spellright/raw/master/media/screenshot-context-menu.png)
