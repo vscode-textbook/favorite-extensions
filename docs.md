@@ -1,5 +1,7 @@
 # 設計書作成支援拡張機能
 
+開発者のドキュメント作成が楽になる拡張機能です。LaTexによる組版やコードのイメージ出力など、分かりやすいドキュメント作成をサポートします。
+
 ---
 ## [Table Formatter(Shuzo Iwasaki)](https://marketplace.visualstudio.com/items?itemName=shuworks.vscode-table-formatter)
 

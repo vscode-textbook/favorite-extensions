@@ -1,5 +1,7 @@
 # フロントエンド開発向け拡張機能
 
+HTMLやCSS/SASSなどを開発する際に便利な拡張機能です。
+
 ---
 ## [Easy Sass(Wojciech Sura)](https://marketplace.visualstudio.com/items?itemName=spook.easysass)
 

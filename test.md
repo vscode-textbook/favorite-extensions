@@ -1,5 +1,7 @@
 # テスト支援拡張機能
 
+テストを支援するための拡張機能です。テストデータの自動生成や表計算データの読み込みなどができます。
+
 ---
 ## [vscode-random(Jorge Rebocho)](https://marketplace.visualstudio.com/items?itemName=jrebocho.vscode-random)
 

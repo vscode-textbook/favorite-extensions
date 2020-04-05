@@ -1,5 +1,9 @@
 # プログラミング全般
 
+特定の言語ではなく、プログラミングする際に便利な拡張機能です。ドキュメ
+ントを作成するときにも有用です。
+
+---
 ## [REST Client(Huachao Mao)](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できます。基本認証/ダイジェスト認証/SSLクライアント証明書/Azure Active Directoryの認証にも対応。

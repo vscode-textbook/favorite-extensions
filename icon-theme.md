@@ -1,5 +1,7 @@
-
 # アイコン・テーマ拡張機能
+
+VS Codeを自分好みの見た目にすると、きっと生産性も高くなるでしょう。お気に入りのアイコンやテーマをじっくり探してください。
+
 ---
 ## [vscode-icons(VSCode Icons Team)](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 

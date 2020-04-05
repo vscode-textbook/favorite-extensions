@@ -3,8 +3,6 @@
 VS Codeにデフォルトで組み込まれた、JavaScriptの開発支援機能はデバッグ、IntelliSense、コードナビゲーションなどのコアとなる機能のみです。
 拡張機能ビューの検索バーに「JavaScript」と入力して、マーケットプレイスで提供されている拡張機能を見つけることができます。検索でタグを利用するときは`tag：javascript`となります。
 
-ここで便利な拡張機能をいくつかご紹介します。
-
 ---
 ## [JavaScript (ES6) code snippets(charalampos karypidis)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 

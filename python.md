@@ -2,8 +2,6 @@
 
 Python開発に便利な拡張機能はマーケットプレイスの検索バーに「python」と入力して、マーケットプレイスで提供されている拡張機能を見つけることができます。検索でタグを利用するときは`tag：python`となります。
 
-ここで便利な拡張機能をいくつかご紹介します。
-
 ---
 ## [Python Extension Pack(Microsoft)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
 

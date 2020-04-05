@@ -1,5 +1,7 @@
 # Markdown作成支援拡張機能
 
+ドキュメント作成する際に便利な拡張機能です。プレビュー機能や画像の挿入、各種フォーマットへのエクスポート機能など幅広く利用できます。
+
 ---
 ## [Markdown All in One(Yu Zhang)](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 

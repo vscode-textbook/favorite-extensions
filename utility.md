@@ -1,5 +1,7 @@
 # ユーティリティ拡張機能
 
+Todo管理やクリップボードの履歴管理、文字数のカウントなど、ちょっとした痒い所に手が届くユーティリティです。
+
 ---
 ## [Clipboard Ring(SrTobi)](https://marketplace.visualstudio.com/items?itemName=SirTobi.code-clip-ring)
 
@@ -19,7 +21,7 @@ VS Code(Visual Studio Code)の設定を同期させる拡張。GitHubのGistにV
 
 
 ---
-## [Todo+(Fabio Spampinato)](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus#demo)
+## [Todo+(Fabio Spampinato)](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus)
 
 高機能なTodoを管理する拡張。タイマーや作業時間なども記録できます。Todoの進捗状況をステータスバーに表示したり、ドキュメント中の//TODOまたは//FIXMEを見つけて一覧表示できます。
 
