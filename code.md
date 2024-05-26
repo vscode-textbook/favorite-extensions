@@ -34,7 +34,6 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 ドキュメントの任意の箇所にブックマークをつけ、自由にジャンプしたり、リスト化したりする拡張。あとで見直したいときなどに便利です。ブックマークの一覧はサイドバーに表示されます
 ![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/printscreen-toggle.png)
 
-
 ---
 ## [Path Autocomplete(Mihai Vilcu)](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
 
