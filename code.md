@@ -37,7 +37,7 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 ## [Bookmarks(Alessandro Fragnani)](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
 ドキュメントの任意の箇所にブックマークをつけ、自由にジャンプしたり、リスト化したりする拡張。あとで見直したいときなどに便利です。ブックマークの一覧はサイドバーに表示されます
-![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-toggle.png)
+![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/printscreen-toggle.png)
 
 
 ---
