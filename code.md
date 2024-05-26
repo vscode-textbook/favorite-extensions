@@ -10,6 +10,7 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 
 ![](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=humao.rest-client))
 
 ---
 ## [Output Colorizer(IBM)](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
@@ -17,6 +18,7 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 
 ![](https://raw.githubusercontent.com/IBM-Bluemix/vscode-log-output-colorizer/master/github-assets/screenshot-1.jpg)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer))
 
 ---
 ## [indent-rainbow(oderwat)](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
@@ -24,14 +26,7 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 
 ![](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
 
-
----
-## [Bracket Pair Colorizer(CoenraadS)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-
-対応するブラケットを色で識別できます。デフォルトでは（）、[ ]、{ }を色付けしますが、カスタムブラケットも設定できます。
-
-![](https://github.com/CoenraadS/BracketPair/raw/master/images/example.png)
-
+([image source](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow))
 
 ---
 ## [Bookmarks(Alessandro Fragnani)](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
