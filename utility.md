@@ -21,6 +21,16 @@ VS Code(Visual Studio Code)の設定を同期させる拡張。GitHubのGistにV
 
 
 ---
+## [CodeSnap(adpyke)](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+
+コードのスクリーンショットを簡単に取れる拡張機能。コードスニペットを手軽に取れるので共有するのに便利です。
+
+コマンドパレットで`CodeSnap`を入力して検索。次に、スクリーンショットするコードを選択し、幅を調整し、シャッターボタンをクリックすればスナップショットを撮れます。また、コードを選択して右クリックし、CodeSnapを選択してもスナップショットを撮ることができます。
+
+
+![](images/codesnap.png)
+
+---
 ## [Todo+(Fabio Spampinato)](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus)
 
 高機能なTodoを管理する拡張。タイマーや作業時間なども記録できます。Todoの進捗状況をステータスバーに表示したり、ドキュメント中の//TODOまたは//FIXMEを見つけて一覧表示できます。
