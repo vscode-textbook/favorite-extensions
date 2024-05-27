@@ -24,11 +24,13 @@
 
 ![](https://raw.githubusercontent.com/jrebocho/vscode-random/master/images/vscode-random-screen.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=jrebocho.vscode-random))
 
 ---
 ## [Excel Viewer(GrapeCity)](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
 
 VS Codeワークスペース内でCSVファイルとExcelスプレッドシートの読み取り専用ビューアー。業務データなどがそのまま参照できます。Visual Studio Code 1.23.0以降で動作します。
 
-![](https://github.com/jjuback/gc-excelviewer/raw/master/img/excel-preview-2.gif)
+![](https://github.com/jjuback/gc-excelviewer/raw/HEAD/img/excel-preview-4.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer))

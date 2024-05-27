@@ -23,6 +23,7 @@ npmモジュール用のIntelliSenseを提供する拡張。
 
 ![](https://github.com/ChristianKohler/NpmIntellisense/raw/master/images/auto_complete.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense))
 
 ---
 ## [Debugger for Chrome(Microsoft)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
@@ -30,6 +31,8 @@ npmモジュール用のIntelliSenseを提供する拡張。
 この拡張機能を使用すると、VS Chromeを使用したまま、Google Chromeブラウザ、またはChrome Debugging Protocolをサポートできます。
 
 ![](https://github.com/Microsoft/vscode-chrome-debug/blob/master/images/demo.gif?raw=true)
+
+([image source](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome))
 
 なお、Microsoft EdgeやFirefoxの拡張機能もあります。
 
