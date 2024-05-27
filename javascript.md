@@ -43,12 +43,3 @@ npmモジュール用のIntelliSenseを提供する拡張。
 詳細なJSDocコメントを自動的に生成する拡張。
 
 ![](https://github.com/joelday/vscode-docthis/raw/master/images/demo.gif)
-
-
----
-## [ESLint(Dirk Ba​​eumer)](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
-ESLintをプロジェクトに統合できます。ESLintがお気に入りのリンターではない場合は、JSHint、JSCS、JS Standardなど、他のさまざまなリンター拡張機能の中から選択できます。
-
-![ESLint](images/js/eslint.png)
-
