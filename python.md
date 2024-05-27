@@ -13,23 +13,10 @@ Pythonの開発に便利な機能を提供するエクステンションパッ�
 + [Django拡張機能](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
 + [Visual Studio IntelliCode拡張機能](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
-
----
-## [Anaconda Extension Pack(Microsoft)](https://marketplace.visualstudio.com/items?itemName=ms-python.anaconda-extension-pack)
-
-Anacondaユーザーに便利な機能を提供するエクステンションパックです。次の拡張機能が含まれます。
-
-+ [Python拡張(Microsoft)](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-+ [YAML拡張(Red Hat)](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
-
-![Anaconda Extension Pack](images/anaconda.png)
-
-
 ---
 ## [Python Docs拡張機能(Mukundan)](https://marketplace.visualstudio.com/items?itemName=Mukundan.python-docs)
 
 VS CodeのエディターとしてPython公式サイトのドキュメントを開くことができます。
-
 
 ---
 ## [flask-snippets拡張機能(cstrap)](https://marketplace.visualstudio.com/items?itemName=cstrap.flask-snippets)

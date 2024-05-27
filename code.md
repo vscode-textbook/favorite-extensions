@@ -10,6 +10,7 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 
 ![](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=humao.rest-client))
 
 ---
 ## [Output Colorizer(IBM)](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
@@ -17,6 +18,7 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 
 ![](https://raw.githubusercontent.com/IBM-Bluemix/vscode-log-output-colorizer/master/github-assets/screenshot-1.jpg)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer))
 
 ---
 ## [indent-rainbow(oderwat)](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
@@ -24,21 +26,15 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 
 ![](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
 
-
----
-## [Bracket Pair Colorizer(CoenraadS)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-
-対応するブラケットを色で識別できます。デフォルトでは（）、[ ]、{ }を色付けしますが、カスタムブラケットも設定できます。
-
-![](https://github.com/CoenraadS/BracketPair/raw/master/images/example.png)
-
+([image source](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow))
 
 ---
 ## [Bookmarks(Alessandro Fragnani)](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
 ドキュメントの任意の箇所にブックマークをつけ、自由にジャンプしたり、リスト化したりする拡張。あとで見直したいときなどに便利です。ブックマークの一覧はサイドバーに表示されます
-![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-toggle.png)
+![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/printscreen-toggle.png)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks))
 
 ---
 ## [Path Autocomplete(Mihai Vilcu)](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
@@ -47,6 +43,8 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 
 ![](https://raw.githubusercontent.com/ionutvmi/path-autocomplete/master/demo/path-autocomplete.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete))
+
 ---
 ## [Rainbow CSV(mechatroner)](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 
@@ -54,6 +52,7 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 
 ![](https://i.imgur.com/PRFKVIN.png)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete))
 
 ---
 ## [Partial Diff(Ryuichi Inagaki)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
@@ -63,6 +62,7 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 
 ![](https://raw.githubusercontent.com/ryu1kn/vscode-partial-diff/master/images/public.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff))
 
 ---
 ## [Trailing Spaces(Shardul Mahadik)](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
@@ -77,8 +77,9 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 
 正規表現をチェックする時に、マッチするかどうかを確認する拡張。
 
-![](https://github.com/chrmarti/vscode-regex/raw/master/images/in_action.gif)
+![](https://github.com/chrmarti/vscode-regex/raw/main/images/in_action.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex))
 
 ---
 ## [Indentation Level Movement(Kai Wood)](https://marketplace.visualstudio.com/items?itemName=kaiwood.indentation-level-movement)
@@ -87,6 +88,7 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 
 ![](https://github.com/kaiwood/vscode-indentation-level-movement/raw/master/images/indentation-level-movement.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=kaiwood.indentation-level-movement))
 
 ---
 ## [EvilInspector(saikou9901)](https://marketplace.visualstudio.com/items?itemName=saikou9901.evilinspector)
@@ -119,3 +121,4 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 
 ![](https://github.com/Tyriar/vscode-sort-lines/raw/master/images/usage-animation.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines))

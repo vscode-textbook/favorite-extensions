@@ -9,6 +9,7 @@ markdownのテーブル構文を綺麗にフォーマットするための拡張
 
 ![](https://raw.githubusercontent.com/shuGH/vscode-table-formatter/master/res/complex_demo.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=shuworks.vscode-table-formatter))
 
 ---
 ## [PrintCode(nobuhito)](https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode)
@@ -17,6 +18,7 @@ markdownのテーブル構文を綺麗にフォーマットするための拡張
 
 ![](https://raw.githubusercontent.com/nobuhito/vscode.printcode/master/printcode.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode))
 
 ---
 ## [Polacode(P & P)](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
@@ -25,14 +27,16 @@ markdownのテーブル構文を綺麗にフォーマットするための拡張
 
 ![](https://github.com/octref/polacode/raw/master/demo/usage.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=pnp.polacode))
 
 ---
 ## [Marp for VS Code(Marp team)](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
 
 Markdownで発表用のスライドを作成する拡張。シンプルな記法でスライドを作成でき、VS Code内でプレビューも可能です。またスライドをPDF/html/PPTX/画像ファイルにエクスポートも可能です。
 
-![](https://raw.githubusercontent.com/marp-team/marp-vscode/master/images/screenshot.png)
+![](https://raw.githubusercontent.com/marp-team/marp-vscode/main/docs/screenshot.png)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode))
 
 ---
 ## [Japanese Word Handler(Suguru Yamamoto)](https://marketplace.visualstudio.com/items?itemName=sgryjp.japanese-word-handler)
@@ -41,6 +45,7 @@ Markdownで発表用のスライドを作成する拡張。シンプルな記法
 
 ![](https://github.com/sgryjp/japanese-word-handler/raw/master/images/japanese-word-handler.gif)
 
+([image source](https://marketplace.visualstudio.com/items?itemName=sgryjp.japanese-word-handler))
 
 ---
 ## [LaTex Workshop(James Yu)](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
@@ -52,3 +57,4 @@ LaTeX組版のコア機能を提供する拡張。コンパイルやPDFによる
 ![](https://github.com/James-Yu/LaTeX-Workshop/raw/master/demo_media/hover.gif)
 ![](https://github.com/James-Yu/LaTeX-Workshop/raw/master/demo_media/preview.gif)
 
+([images source](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop))
