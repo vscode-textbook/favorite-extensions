@@ -103,3 +103,19 @@ textlintは、JavaScriptで記述されたオープンソースのテキスト�
 ![](https://github.com/bartosz-antosik/vscode-spellright/raw/main/media/screenshot-context-menu.png)
 
 ([image source](https://marketplace.visualstudio.com/items?itemName=ban.spellright))
+
+---
+
+## [Mermaid Graphical Editor(corschenzi)](https://marketplace.visualstudio.com/items?itemName=corschenzi.mermaid-graphical-editor)
+
+テキストベースのMermaid記法からグラフィカルにシーケンス図、クラス図、フローチャートなどを描画・編集できる拡張機能です。
+
+- Mermaid記法のコードブロック上でエディタビューを開くことができる
+- GUIでフローチャート、シーケンス図の基本的な編集が可能
+- テキストエリアでMermaid記法を直接編集することもできる
+- 変更はリアルタイムでダイアグラムに反映される
+
+
+![](https://storage.googleapis.com/corschenzi_public_storage/vscode_demo.gif)
+
+([image source](https://marketplace.visualstudio.com/items?itemName=corschenzi.mermaid-graphical-editor))

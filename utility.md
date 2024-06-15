@@ -63,3 +63,13 @@ VS Codeでプログラミングを行うときに自動的に生成されるメ�
 
 Markdownファイルを開くと、ステータスバーにファイル内の文字数を表示する拡張。ドキュメント作成のめやすになります。
 
+
+---
+
+## [Draw.io Integration(Henning Dieterichs)](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+
+VS Code上でdraw.ioを使用できるようする拡張機能です。拡張子が`.drawio`、`.dio`、`.drawio.svg`、`.drawio.png`のファイルをDraw.ioエディターで編集できます。なお、draw.ioとは、 無料でフローチャート、ER図、ネットワーク図、クラス図などさまざまな種類の図を作成できる高機能な作図ツールです。
+
+![](https://github.com/hediet/vscode-drawio/raw/HEAD/docs/demo.gif)
+
+([image source](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio))
