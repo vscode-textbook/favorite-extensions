@@ -122,3 +122,18 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 ![](https://github.com/Tyriar/vscode-sort-lines/raw/master/images/usage-animation.gif)
 
 ([image source](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines))
+
+---
+
+## [Codiumate (CodiumAI)](https://marketplace.visualstudio.com/items?itemName=Codium.codium)
+
+
+Codiumateは無料で使えるAIコーディングエージェントです。コードを分析してテストスイートを生成したり、コード自動補完、チャット、拡張検索、サジェストなどの機能をサポートしています。
+
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/Tests-Gif.gif)
+
+右クリックでCodiumateを選択してCodiumateの機能を発動させることもできます。
+
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/all-lang-vscode-gif.gif)
+
+([image source](https://marketplace.visualstudio.com/items?itemName=Codium.codium))
