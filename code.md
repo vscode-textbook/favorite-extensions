@@ -124,7 +124,6 @@ VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを�
 ([image source](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines))
 
 ---
-
 ## [Codiumate (CodiumAI)](https://marketplace.visualstudio.com/items?itemName=Codium.codium)
 
 
@@ -137,3 +136,18 @@ Codiumateは無料で使えるAIコーディングエージェントです。コ
 ![](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/all-lang-vscode-gif.gif)
 
 ([image source](https://marketplace.visualstudio.com/items?itemName=Codium.codium))
+
+---
+## [CodeTour(Jonathan Carter)](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
+
+ソースコードの任意の場所にメモ（複数可）を残すことができる拡張機能です。これを使うことでソースコードのステップバイステップのガイドを作成できます。Code Tourの主な機能以下のとおりです。
+
+- コード上に手順ごとにメモを残すことができる
+- メモにはMarkdownが使え、コード例やリンクを含められる
+- 記録したメモに沿ってコードを読み進める「ツアー」モードがある
+- ツアーモードではメモ間を簡単に行き来できる
+- メモデータはリポジトリ直下の`.tours` 配下に保存されるため、コードベースに残すことでチームと共有ができる
+
+![](https://user-images.githubusercontent.com/116461/76165260-c6c00500-6112-11ea-9cda-0a6cb9b72e8f.gif)
+
+([image source](https://github.com/microsoft/codetour))
